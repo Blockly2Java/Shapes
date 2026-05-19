@@ -7,6 +7,3 @@
 [submodule "tests"]
 	path = tests
 	url = git@github.com:Blockly2Java/Shapes_tests.git
-[submodule "aux"]
-	path = aux
-	url = git@github.com:Blockly2Java/B2J_Graphics_aux.git
