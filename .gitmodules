@@ -1,9 +1,0 @@
-[submodule "solution"]
-	path = solution
-	url = git@github.com:Blockly2Java/Shapes_solution.git
-[submodule "template"]
-	path = template
-	url = git@github.com:Blockly2Java/Shapes_template.git
-[submodule "tests"]
-	path = tests
-	url = git@github.com:Blockly2Java/Shapes_tests.git
